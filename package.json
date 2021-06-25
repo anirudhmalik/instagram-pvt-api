@@ -1,0 +1,22 @@
+{
+    "name": "insta-pvt-api",
+    "version": "0.0.1",
+    "description": "instagram apis",
+    "main": "index.js",
+    "author": "anirudh",
+    "license": "",
+    "type": "module",
+    "scripts": {
+        "Start": "node index.js"
+    },
+    "dependencies": {
+        "@lifeomic/attempt": "^3.0.0",
+        "bluebird": "^3.7.2",
+        "chance": "^1.1.7",
+        "crypto": "^1.0.1",
+        "lodash": "^4.17.21",
+        "request": "^2.88.2",
+        "request-promise": "^4.2.6",
+        "tough-cookie": "^4.0.0"
+    }
+}
